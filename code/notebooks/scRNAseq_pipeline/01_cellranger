@@ -1,1 +1,0 @@
-cellranger multi --localcores 46 --maxjobs 10 --id human_B_cell_scRNA_seq_220831 --csv /media/RAIDArray/JingyuFan/projects/
